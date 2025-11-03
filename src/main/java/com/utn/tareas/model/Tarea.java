@@ -1,4 +1,4 @@
-package com.utn.tareas.models;
+package com.utn.tareas.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
